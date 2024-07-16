@@ -1,0 +1,16 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: gold;
+}
+p{
+    color: rgb(250, 93, 93);
+}
+div{
+    color: white;
+    background-color: black;
+}
+span{
+    font-size: 18px;
+    font-weight: bold  ;
+}
